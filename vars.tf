@@ -9,3 +9,6 @@ variable "engine_version" {}
 variable "port" {}
 
 variable "subnet_ids" {}
+
+variable "vpc_id" {}
+variable "cidr_block" {}
